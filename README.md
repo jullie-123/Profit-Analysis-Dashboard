@@ -3,6 +3,11 @@
 **Project Overview**
 This data analysis project aims to provide insights on the profitablity of computers products business. The purpose of conducting the profit analysis on this dataset is to identify the factors that influence profitability and understant how different variable such as product category, region, sales promotions e.t.c contribute to the financial performance.By analyzing various key metrics of the sales data, we seek to identify trends, gain deeper understaning of the products sales performance and make data driven recommendations.
 
+![profit analysis dashboard](https://github.com/user-attachments/assets/196a0f0c-8761-4210-ae30-f020ea621c98)
+
+![dashboard analysis](https://github.com/user-attachments/assets/536fd9b9-24e3-4162-9324-fc54342ed4ce)
+
+
 **Data Source**
 Sales Data: The primary data used for this analysis is from excel file that contains details on the sales of each product
 
