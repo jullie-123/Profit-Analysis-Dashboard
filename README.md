@@ -43,17 +43,17 @@ EDA involved exploring the sales data, to answer key questions such as:
    - Avarege profit per product
    - Percentage contribution by product category
   
-   **##Findings**
+   **Findings**
    _Computers generate the highest profits
    -North America generate the highest monthly profit followed by Asia then lastly Europe.
    -Promotions increases sales in each region.
 
-   **##Recommendations**
+   **Recommendations**
    Based on the analysis I recommend the following actions:
    1. Increase investment on promotion and marketing to increase the sales revenue.
    2. Implement customer segementation strategy to target high value customers effectively.
       
-    **##Limitations**
+    **Limitations**
    
 
 
